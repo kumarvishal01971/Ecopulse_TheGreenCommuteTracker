@@ -45,4 +45,4 @@ npm run build
 
 🔗 Live Site
 
-[EcoPulse – Smart Green Commute Tracker](https://greenecopulse.netlify.app)
+[EcoPulse – Smart Green Commute Tracker](https://ecopulsethegreencommutetracker.vercel.app/)
